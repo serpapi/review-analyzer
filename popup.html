@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        width: 300px;
+        padding: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>ChatGPT Review Analyzer</h1>
+    <p>Enter either a JSON result from one of the <a href="https://serpapi.com">SerpApi's Reviews Engines</a> or enter a list of reviews in an array format:</p>
+    <textarea id="input-reviews" rows="8" cols="30"></textarea>
+    <br />
+    <button id="analyze">Analyze Reviews</button>
+    <p id="error-message" style="color: red;"></p>
+    <script src="popup.js"></script>
+  </body>
+</html>
