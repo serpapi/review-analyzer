@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  A Blog Post with example usecases and deeper explanation: <a href="https://serpapi.com/blog/review-analyzer">Real World Example of GPS Targeted Local SERP</a>
+  A Blog Post with example usecases and deeper explanation: <a href="https://serpapi.com/blog/review-analyzer">Open Source Review Analyzer Chrome Extension for ChatGPT</a>
 </p>
 
 </br>
